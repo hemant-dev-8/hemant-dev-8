@@ -11,7 +11,6 @@ I'm a passionate developer currently building my own SaaS platform while constan
 - 🌱 Currently learning: Advanced cloud architecture and real-time data processing
 - 👯 Looking to collaborate on: Innovative frontend/backend projects that challenge my skills
 - 💬 Ask me about: React, Node.js, Python, or anything related to full-stack development
-- 📫 How to reach me: Discord @hemant_the_devlpr
 
 ## 🛠️ Tech Stack
 
