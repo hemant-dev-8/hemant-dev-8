@@ -7,7 +7,6 @@
 ## 🚀 About Me
 I'm a passionate developer currently building my own SaaS platform while constantly expanding my technical knowledge. I thrive on creating efficient, scalable solutions and enjoy collaborating with others to build amazing products.
 
-- 🔭 Currently working on: Building a SaaS product.
 - 🌱 Currently learning: Advanced cloud architecture and real-time data processing
 - 👯 Looking to collaborate on: Innovative frontend/backend projects that challenge my skills
 - 💬 Ask me about: React, Node.js, Python, or anything related to full-stack development
